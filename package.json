@@ -1,0 +1,14 @@
+{
+  "name": "yt-webm-downloader",
+  "version": "1.0.0",
+  "description": "Partially download from youtube",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^1.0.3"
+  }
+}
